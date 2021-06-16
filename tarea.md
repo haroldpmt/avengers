@@ -1,2 +1,4 @@
+### Tareas
 
-Este es el archivo de tareas.
+1. Levantarse de la cama.
+2. Baniarse.
